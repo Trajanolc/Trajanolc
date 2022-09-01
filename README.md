@@ -6,7 +6,7 @@
 
 :computer: I've always been coding as a hobbie since i was 13 y/o, when I wanted to make a game.
 
-:grin: I made a lot of symple systems as an engineer citzen developer, usualy using Visual Basic and C#.
+:grin: I made a lot of symple systems as an engineer citizen developer, usualy using Visual Basic and C#.
 
 :heart_eyes: But now I want to be a Professional Developer!
 
