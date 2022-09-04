@@ -1,6 +1,7 @@
-### Hi there 👋
 
 ## Intro
+
+### Hello World!
 
 👋 My name is Lucas Trajano, I'm a mechanical engineer in career transition to tecnology.
 
@@ -10,8 +11,6 @@
 
 :heart_eyes: But now I want to be a Professional Developer!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trajanolc&show_icons=true)
-
 ## Stacks
 
 ##### Backend:
@@ -20,9 +19,15 @@
 - HTML + CSS + Typescript + Angular
 ##### Mobile:
 - Kotlin
+##### Database:
+- Mysql
+- DynamoDB
+- PostgreSQL
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trajanolc&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trajanolc&show_icons=true)
 
 
 ## Projects
