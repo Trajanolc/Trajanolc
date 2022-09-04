@@ -6,7 +6,7 @@
 
 :computer: I've always been coding as a hobbie since i was 13 y/o, when I wanted to make a game.
 
-:grin: I made a lot of symple systems as an engineer citizen developer, usualy using Visual Basic and C#.
+:grin: I made a lot of simple systems as an citizen developer engineer, usualy using Visual Basic and C#.
 
 :heart_eyes: But now I want to be a Professional Developer!
 
@@ -17,7 +17,7 @@
 ##### Backend:
 - Java + Spring
 ##### Frontend:
-- Typescript + Angular
+- HTML + CSS + Typescript + Angular
 ##### Mobile:
 - Kotlin
 
