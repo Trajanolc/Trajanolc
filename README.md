@@ -1,25 +1,16 @@
 
 ## Intro
 
-### Hello World!
-
-👋 My name is Lucas Trajano, I'm a mechanical engineer in career transition to tecnology.
-
-:computer: I've always been coding as a hobbie since i was 13 y/o, when I wanted to make a game.
-
-:grin: I made a lot of simple systems as an citizen developer engineer, usualy using Visual Basic and C#.
-
-:heart_eyes: But now I want to be a Professional Developer!
-
 ## Stacks
 
 ##### Backend:
-- Java + Spring
+- Java + Spring | C# + .Net
 ##### Frontend:
 - HTML + CSS + Typescript + Angular
 ##### Mobile:
 - Kotlin
 ##### Database:
+- Oracle PL/SQL
 - Mysql
 - DynamoDB
 - PostgreSQL
@@ -28,6 +19,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trajanolc&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trajanolc&show_icons=true)
+
+## Experiences
+
+For a more updated version of my professional experiences, please visit my LinkedIn profile.
+https://www.linkedin.com/in/trajanolc/
 
 
 ## Projects
