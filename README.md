@@ -1,6 +1,4 @@
 
-## Intro
-
 ## Stacks
 
 ##### Backend:
